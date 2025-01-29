@@ -37,3 +37,6 @@
 [submodule "build/src/ext/ptex"]
 	path = build/src/ext/ptex
 	url = https://github.com/wdas/ptex.git
+[submodule "src/ext/src/ext/ptex"]
+	path = src/ext/src/ext/ptex
+	url = https://github.com/wdas/ptex.git
